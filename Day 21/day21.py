@@ -1,0 +1,1 @@
+lines = [x.strip() for x in open("test.txt").readlines()]
